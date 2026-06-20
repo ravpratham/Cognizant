@@ -11,11 +11,6 @@ public class WordDocument implements Document{
     }
 
     @Override
-    public void close() {
-
-    }
-
-    @Override
     public void save() {
         System.out.println("Saving Word document as .docx");
     }

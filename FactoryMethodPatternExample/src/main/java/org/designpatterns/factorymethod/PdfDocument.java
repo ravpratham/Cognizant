@@ -12,11 +12,6 @@ public class PdfDocument implements Document{
     }
 
     @Override
-    public void close() {
-        System.out.println("PDF document is closed");
-    }
-
-    @Override
     public void save() {
         System.out.println("document is saved as .pdf");
     }
