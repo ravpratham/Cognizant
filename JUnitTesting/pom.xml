@@ -24,7 +24,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.junittesting.CalculatorTest</mainClass>
+                            <mainClass>org.mockito.junittesting.CalculatorTest</mainClass>
                         </manifest>
                     </archive>
                     <finalName>${project.artifactId}-${project.version}</finalName>

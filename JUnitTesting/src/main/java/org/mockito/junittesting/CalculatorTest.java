@@ -1,4 +1,4 @@
-package org.junittesting;
+package org.mockito.junittesting;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
